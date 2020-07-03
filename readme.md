@@ -2,9 +2,9 @@
 
 ## Purposes
 
-### This project is mainly created for hiring purposes
+This project is mainly created for hiring purposes
 
-### I tried to copy 'Traveloka' apps and made it with React-Native
+I tried to copy 'Traveloka' apps and made it with React-Native
 
 ## Installation guide
 
